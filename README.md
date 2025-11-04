@@ -1,4 +1,4 @@
-# Equipo de trabajo: Grupo X
+# Equipo de trabajo: Grupo 4
 
 ##  Integrantes
 - Bairon Díaz
