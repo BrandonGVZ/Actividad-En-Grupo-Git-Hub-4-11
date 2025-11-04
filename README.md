@@ -1,4 +1,10 @@
-# Actividad-En-Grupo-Git-Hub-4-11
-Equipo DecimoSe.
-TALLER GRUPO - BAIRON DÍAZ, BRANDON GOMEZ , SAMANTHA VARGAS ,ANGELICA RUGE
-Este laboratorio tiene como objetivo la actividad colaborativa de projectos en github.
+# Equipo de trabajo: Grupo X
+
+##  Integrantes
+- Bairon Díaz
+- Brandon Gomez
+- Samantha Vargas
+- Angelica Ruge
+
+##  Objetivo del laboratorio
+El objetivo de este laboratorio es aprender a trabajar de forma colaborativa utilizando GitHub, gestionando versiones de código, y desarrollando habilidades de trabajo en equipo en entornos digitales.
